@@ -30,7 +30,7 @@ Our research develops a fine-tuned **MuRIL (Multilingual Representations for Ind
 ### 🔧 Installation & Local Setup
 To run this project locally, clone the repository and install the dependencies:
 ```bash
-git clone [https://github.com/jyotisangam/](https://github.com/jyotisangam/)[muril-hinglish-mental-health].git
-cd [Your-Repo-Name]
+git clone [https://github.com/jyotisangam/muril-hinglish-mental-health-detection-analysis.git](https://github.com/jyotisangam/muril-hinglish-mental-health-detection-analysis.git)
+cd [muril-hinglish-mental-health-detection-analysis]
 pip install -r requirements.txt
 streamlit run app.py
